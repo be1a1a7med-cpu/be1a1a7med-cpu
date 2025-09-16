@@ -8,8 +8,6 @@
      href="https://github.com/sp-xd" 
      alt="I'm Belal Ahmed" width="40%"/><br>  
 
-<div align="center">
-  <h1>I'm Belal Ahmed</h1>
 </div>
 
 
