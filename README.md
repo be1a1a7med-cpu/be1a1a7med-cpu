@@ -39,32 +39,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-- 📡 **Real-time IoT Data Pipeline**  
-  *Simulated sensor data, batch & streaming pipeline, real-time alerts, and dashboard.*  
-  [🔗 Project Repo](#)
-
-- 📊 **Student Performance Dashboard**  
-  *ETL + SQL + Python visualizations to track student performance.*  
-  [🔗 Project Repo](#)
-
-- 🤖 **Customer Churn Prediction**  
-  *Machine learning model to predict churn and propose retention strategies.*  
-  [🔗 Project Repo](#)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=belalahmed&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalahmed&layout=compact&theme=tokyonight" width="48%"/>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/belal--ahmed)  
